@@ -1,0 +1,16 @@
+body {
+	background-color: white;
+}
+
+
+h1 {
+	color: black;
+	margin-left: 20px;
+  font-family: Arial Narrow;
+} 
+
+p{
+	color: black;
+	margin-left: 24px;
+	font-family: Arial Narrow;
+}
